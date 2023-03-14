@@ -4,11 +4,11 @@
 
 A sample game made using the python libary pyGame.
 
-## Requirements
+## Installation Requirements
 
-You require the latest version of [python](https://www.python.org/downloads/).
+- [Python](https://www.python.org/downloads/) version **3.11.2** or higher.
 
-## Run Locally
+## Local Setup
 
 Clone the project
 
@@ -22,10 +22,10 @@ Go to the project directory
   cd carGame
 ```
 
-Install dependencies
+Install requirements
 
 ```bash
-  pip3 install pygame
+  pip3 install -r requirements.txt
 ```
 
 Run the script
@@ -33,7 +33,3 @@ Run the script
 ```bash
   python3 game.py
 ```
-
-#
-
-![Language](https://img.shields.io/github/languages/top/amidarex/carGame?style=for-the-badge)
